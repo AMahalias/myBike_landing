@@ -1,6 +1,6 @@
 Visited site on this link DEMO LINK
 
-Implementation the landing page with HTML, SCSS, JS according to Figma design.
+Implementation the landing page with HTML, SCSS, JS according to [Figma design](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1).
 
 - Write tags' classes according BEM methodology.
 - All colors, transitions and texts wrote in variables and mixins.
