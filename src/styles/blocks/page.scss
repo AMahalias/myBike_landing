@@ -74,7 +74,7 @@
   &__section-title {
     margin: 0 0 48px;
 
-    @include textForSection;
+    @include titleForSection;
 
     @include onTablet {
       font-size: 48px;
