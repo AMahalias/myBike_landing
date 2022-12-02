@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Visited site on this link DEMO LINK
+
+Implementation the landing page with HTML, SCSS, JS according to Figma design.
+
+- Write tags' classes according BEM methodology.
+- All colors, transitions and texts wrote in variables and mixins.
+- Fixed menu by clicking on button.
+- Page is adaptive for different screens.
+- There are form for sending user's data, clickable links, amimated images for user actions.
+
+Thanks for your attention :)
