@@ -1,4 +1,4 @@
-Visited site on this link DEMO LINK
+Visited site on this link [DEMO LINK](https://amahalias.github.io/myBike_landing/)
 
 Implementation the landing page with HTML, SCSS, JS according to [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1).
 
