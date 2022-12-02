@@ -1,6 +1,6 @@
-Visited site on this link [DEMO LINK](https://amahalias.github.io/myBike_landing/)
+**Visited site on this link [DEMO LINK](https://amahalias.github.io/myBike_landing/)**
 
-Implementation the landing page with HTML, SCSS, JS according to [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1).
+Implementation the landing page with **HTML, SCSS, JS** according to [Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1).
 
 - Write tags' classes according BEM methodology.
 - All colors, transitions and texts are written in variables and mixins.
