@@ -1,0 +1,49 @@
+.header {
+  background-size: cover;
+  background-position: right;
+  background-image: url(../images/header2.png);
+  background-repeat: no-repeat;
+
+  @include onTablet {
+    background-position: center;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+    height: 100vh;
+    padding: $headerTopPadding 0 90px;
+
+    @include onTablet {
+      padding-bottom: 130px;
+    }
+
+    @include onDesktop {
+      padding-bottom: 200px;
+    }
+  }
+
+  &__top {
+    @include top-actions;
+  }
+
+  &__title {
+    margin: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @include titleForHeader;
+
+    @include onTablet {
+      font-size: 64px;
+      line-height: 64px;
+    }
+
+    @include onDesktop {
+      font-size: 80px;
+      line-height: 80px;
+    }
+  }
+}
